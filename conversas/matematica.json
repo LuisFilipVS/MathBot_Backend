@@ -1,0 +1,24 @@
+{
+    "conversas": [
+        {
+            "mensagens": [ "o que sao conjuntos?", "o que sao conjuntos numericos", "me fala o que é conjuntos numericos" , "explique sobre conjuntos numericos" , "me ajuda com conjuntos numericos" ],
+            "resposta": "Vamos lá!Conjuntos numéricos são elementos importantes da matématica no qual é a categorização de numeros que tem a mesma característica, e que surgiram durante o desenvolvimento da humanidade baseando na necessidade de responder certos questionamentos que iam surgindo.Por exemplo, os numeros {1,2,3,4,5} fazem parte conjuntos de números naturais, por outro lado, os numeros {1.2, 2.4, 3.6 , 1.43} fazem parte do conjunto de numeros racionais"
+        },
+        {
+            "mensagens": ["o que eh um numero imaginario?","me fala o que sao numeros imaginarios", "me explique que eh numeros imaginarios" ],
+            "resposta": "Números imaginários fazem parte do conjunto de números complexos no qual sua parte real é igual a zero, e representados por 'ib' no qual b é uma unidade real e i é a unidade imaginário. Essa categoria de numeros foi desenvolvida de Renê Decartes e tem aplicação na física quântica.Para exemplicar: sqrt(-1) = i"
+        },
+        {
+            "mensagens": ["o que sao polinomios?","me explica o que sao polinomios", "defina polinomios"],
+            "resposta": "Polinômios são expressões algébricas de um conjunto de monômios(expressão albébrica constituída por um coeficiente numérico e uma parte literal. Ex. 2x²) distintosEx. 2x² + 3x⁴ => este pode ser categorizado com um polinômio de grau 4."
+        },
+        {
+            "mensagens": ["o que sao poligonos?","defina poligonos", "me de uma breve definicao de poligonos", "me explique o que sao poligonos"],
+            "resposta": "Poligonos fazem parte da área de geometria plana, definidos por uma figura fechada com inúmeros lados(segmentos de reta)"
+        },
+        {
+            "mensagens": ["o que eh a proporcao aurea?", "defina a proporcao aurea","me fala sobre a proporcao aurea"],
+            "resposta": "Proporção Áurea, ou número de Ouro, é uma constante real algébrica irracional utilizada na arquitetura, artes e design gráfico, e comumente associoada à sequência de Fibonacci. Em resumo: dois números estão em proporção áurea se a razão deles é a igual a soma dos mesmos pela divisao do maior número. (a + b)/a = a/b = 1,618033... "
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "conversas": [
+        {
+            "mensagens": ["oi","opa","eai","ola","tudo bom?","tudo bem?"], 
+            "resposta": "Olá, eu me chamo MathBot, Bot tutor de matemática, e estou pronto para te ajudar! Me fale o que deseja!"
+        },
+        {
+            "mensagens": ["bom dia"],
+            "resposta": "Olá, bom dia! Eu me chamo MathBot, Bot tutor de matemática, e estou pronto para te ajudar! Me fale o que deseja!"
+        },
+        {
+            "mensagens": ["boa tarde"],
+            "resposta": "Olá, boa tarde! Eu me chamo MathBot, Bot tutor de matemática, e estou pronto para te ajudar! Me fale o que deseja!"
+        },
+        {
+            "mensagens": ["boa noite"],
+            "resposta": "Olá, boa noite! Eu me chamo MathBot, Bot tutor de matemática, e estou pronto para te ajudar! Me fale o que deseja!"
+        }
+    ]
+}
