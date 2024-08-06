@@ -34,4 +34,5 @@ def get_response(message):
 
 #Iniciando a instância se este arquivo for o principal
 if __name__ == "__main__":
-    service.run(debug=True)
+    from waitress import serve
+    serve(service, host="0.0.0.0", port=8080)
